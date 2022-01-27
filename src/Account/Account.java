@@ -48,6 +48,7 @@ public class Account {
 //        }
         this.transactionHistory = new ArrayList();
         this.balance = balance;
+        this.accountNumber1 = accountNumber;
 //        this.tools = new Tools();
     }
 
